@@ -1,0 +1,6 @@
+open_data/
+__pycache__/
+models/
+.vscode/
+.DS_Store/
+AGENTS.md
